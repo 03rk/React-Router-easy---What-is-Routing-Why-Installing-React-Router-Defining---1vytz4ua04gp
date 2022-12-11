@@ -15,12 +15,6 @@ export const NavBar = () => {
                     Home
                 </Link>
             </li>
-            {/* <li>
-                <Link to='/not-found' className="not-found-page">
-                    Not found page
-                </Link>
-
-            </li> */}
         </ul>
     </nav>
   </div>;
